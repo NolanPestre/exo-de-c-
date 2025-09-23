@@ -1,0 +1,15 @@
+C:\Users\npestre\Documents\GitHub\exo-de-c\exo de c#\bin\Debug\net8.0\exo de c#.exe
+C:\Users\npestre\Documents\GitHub\exo-de-c\exo de c#\bin\Debug\net8.0\exo de c#.deps.json
+C:\Users\npestre\Documents\GitHub\exo-de-c\exo de c#\bin\Debug\net8.0\exo de c#.runtimeconfig.json
+C:\Users\npestre\Documents\GitHub\exo-de-c\exo de c#\bin\Debug\net8.0\exo de c#.dll
+C:\Users\npestre\Documents\GitHub\exo-de-c\exo de c#\bin\Debug\net8.0\exo de c#.pdb
+C:\Users\npestre\Documents\GitHub\exo-de-c\exo de c#\obj\Debug\net8.0\exo de c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\npestre\Documents\GitHub\exo-de-c\exo de c#\obj\Debug\net8.0\exo de c#.AssemblyInfoInputs.cache
+C:\Users\npestre\Documents\GitHub\exo-de-c\exo de c#\obj\Debug\net8.0\exo de c#.AssemblyInfo.cs
+C:\Users\npestre\Documents\GitHub\exo-de-c\exo de c#\obj\Debug\net8.0\exo de c#.csproj.CoreCompileInputs.cache
+C:\Users\npestre\Documents\GitHub\exo-de-c\exo de c#\obj\Debug\net8.0\exo de c#.sourcelink.json
+C:\Users\npestre\Documents\GitHub\exo-de-c\exo de c#\obj\Debug\net8.0\exo de c#.dll
+C:\Users\npestre\Documents\GitHub\exo-de-c\exo de c#\obj\Debug\net8.0\refint\exo de c#.dll
+C:\Users\npestre\Documents\GitHub\exo-de-c\exo de c#\obj\Debug\net8.0\exo de c#.pdb
+C:\Users\npestre\Documents\GitHub\exo-de-c\exo de c#\obj\Debug\net8.0\exo de c#.genruntimeconfig.cache
+C:\Users\npestre\Documents\GitHub\exo-de-c\exo de c#\obj\Debug\net8.0\ref\exo de c#.dll
