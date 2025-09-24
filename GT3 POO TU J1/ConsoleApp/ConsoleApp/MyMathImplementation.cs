@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -155,6 +156,37 @@ namespace TU_Challenge
             if (arg2 < arg1) { return 1; }
             if (arg2 > arg1) { return -1; }
             else { return 0; }
+        }
+    }
+
+    public struct MyVector3
+    {
+        float x;
+        float y;
+        float z;
+
+        public MyVector3(float _x, float _y, float _z)
+        {
+            x = _x;
+            y = _y;
+            z = _z;
+        }
+
+        public float X => x;
+        public float Y => y;
+        public float Z => z;
+
+        public float SquaredMagnitude => x * x + y * y + z * z;
+        public float Magnitude => (float)Math.Sqrt(SquaredMagnitude);
+
+        public MyVector3 Normalize()
+        {
+            return new MyVector3(X / Magnitude, Y / Magnitude, Z / Magnitude);
+        }
+
+        public static MyVector3 operator +(MyVector3 v1, MyVector3 v2)
+        {
+            return new MyVector3(v1.X + v2.X, v1.Y + v2.Y, v1.Z + v2.Z);
         }
     }
 }

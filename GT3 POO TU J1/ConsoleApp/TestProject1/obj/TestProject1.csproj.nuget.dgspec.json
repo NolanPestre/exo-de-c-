@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\npestre\\Desktop\\GT3 POO TU J1\\ConsoleApp\\TestProject1\\TestProject1.csproj": {}
+    "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO TU J1\\ConsoleApp\\TestProject1\\TestProject1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\npestre\\Desktop\\GT3 POO TU J1\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO TU J1\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\npestre\\Desktop\\GT3 POO TU J1\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO TU J1\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\npestre\\Desktop\\GT3 POO TU J1\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO TU J1\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\npestre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\npestre\\Desktop\\GT3 POO TU J1\\ConsoleApp\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO TU J1\\ConsoleApp\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\npestre\\Desktop\\GT3 POO TU J1\\ConsoleApp\\TestProject1\\TestProject1.csproj": {
+    "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO TU J1\\ConsoleApp\\TestProject1\\TestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\npestre\\Desktop\\GT3 POO TU J1\\ConsoleApp\\TestProject1\\TestProject1.csproj",
+        "projectUniqueName": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO TU J1\\ConsoleApp\\TestProject1\\TestProject1.csproj",
         "projectName": "TestProject1",
-        "projectPath": "C:\\Users\\npestre\\Desktop\\GT3 POO TU J1\\ConsoleApp\\TestProject1\\TestProject1.csproj",
+        "projectPath": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO TU J1\\ConsoleApp\\TestProject1\\TestProject1.csproj",
         "packagesPath": "C:\\Users\\npestre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\npestre\\Desktop\\GT3 POO TU J1\\ConsoleApp\\TestProject1\\obj\\",
+        "outputPath": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO TU J1\\ConsoleApp\\TestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,8 +99,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\npestre\\Desktop\\GT3 POO TU J1\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {
-                "projectPath": "C:\\Users\\npestre\\Desktop\\GT3 POO TU J1\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj"
+              "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO TU J1\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {
+                "projectPath": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO TU J1\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj"
               }
             }
           }

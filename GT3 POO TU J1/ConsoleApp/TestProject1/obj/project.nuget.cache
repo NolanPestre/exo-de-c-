@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UWTAWhOGErw=",
+  "dgSpecHash": "r4X/IX0Bp5I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\npestre\\Desktop\\GT3 POO TU J1\\ConsoleApp\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO TU J1\\ConsoleApp\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\npestre\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\npestre\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

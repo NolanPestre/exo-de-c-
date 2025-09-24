@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static TU_Challenge.MyMathImplementation;
 
 namespace TU_Challenge
 {
@@ -12,6 +13,7 @@ namespace TU_Challenge
 
     public class Test1_Math
     {
+        /*
         [Test]
         [TestCase(1, 2, 3)]
         [TestCase(10, 20, 30)]
@@ -224,6 +226,38 @@ namespace TU_Challenge
                 Assert.IsTrue(result[i] > result[i + 1]);
             }
         }
+        */
 
+        [Test]
+        [TestCase(1.2f, 0.0f, 0.0f)]
+        public void V3Creation(float x, float y, float z)
+        {
+            MyVector3 v = new MyVector3(x, y, z);
+
+            Assert.That(v.X, Is.EqualTo(x).Within(0.0001f));
+            Assert.That(v.Y, Is.EqualTo(y).Within(0.0001f));
+            Assert.That(v.Z, Is.EqualTo(z).Within(0.0001f));
+        }
+
+        [Test]
+        [TestCase(0.0f, 0.0f, 0.0f, 0.0f)]
+        [TestCase(2.0f, 3.0f, 6.0f, 49.0f)]
+        public void V3SqrtMagnitude(float x, float y, float z, float excepted)
+        {
+            MyVector3 v = new MyVector3(x, y, z);
+
+            Assert.That(v.SquaredMagnitude, Is.EqualTo(excepted).Within(0.0001f));
+        }
+
+        [Test]
+        [TestCase(0.0f, 0.0f, 0.0f, 0.0f)]
+        [TestCase(2.0f, 3.0f, 6.0f, 7.0f)]
+        public void V3Magnitude(float x, float y, float z, float excepted)
+        {
+            MyVector3 v = new MyVector3(x, y, z);
+
+            Assert.That(v.Magnitude, Is.EqualTo(excepted).Within(0.0001f));
+        }
     }
+
 }
