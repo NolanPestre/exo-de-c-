@@ -8,6 +8,11 @@ namespace TU_Challenge.Heritage
 {
     public class ChatQuiBoite : Chat
     {
+        public ChatQuiBoite(string name): base(name) {
+
+            IsAlive = true;
+            Paws = 3;
+        }
         
 
     }

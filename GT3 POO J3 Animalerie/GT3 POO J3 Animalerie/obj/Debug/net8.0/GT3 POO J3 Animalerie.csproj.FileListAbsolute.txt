@@ -1,0 +1,15 @@
+C:\Users\npestre\Documents\GitHub\exo-de-c\GT3 POO J3 Animalerie\GT3 POO J3 Animalerie\obj\Debug\net8.0\GT3 POO J3 Animalerie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\npestre\Documents\GitHub\exo-de-c\GT3 POO J3 Animalerie\GT3 POO J3 Animalerie\obj\Debug\net8.0\GT3 POO J3 Animalerie.AssemblyInfoInputs.cache
+C:\Users\npestre\Documents\GitHub\exo-de-c\GT3 POO J3 Animalerie\GT3 POO J3 Animalerie\obj\Debug\net8.0\GT3 POO J3 Animalerie.AssemblyInfo.cs
+C:\Users\npestre\Documents\GitHub\exo-de-c\GT3 POO J3 Animalerie\GT3 POO J3 Animalerie\obj\Debug\net8.0\GT3 POO J3 Animalerie.csproj.CoreCompileInputs.cache
+C:\Users\npestre\Documents\GitHub\exo-de-c\GT3 POO J3 Animalerie\GT3 POO J3 Animalerie\obj\Debug\net8.0\GT3 POO J3 Animalerie.sourcelink.json
+C:\Users\npestre\Documents\GitHub\exo-de-c\GT3 POO J3 Animalerie\GT3 POO J3 Animalerie\bin\Debug\net8.0\GT3 POO J3 Animalerie.exe
+C:\Users\npestre\Documents\GitHub\exo-de-c\GT3 POO J3 Animalerie\GT3 POO J3 Animalerie\bin\Debug\net8.0\GT3 POO J3 Animalerie.deps.json
+C:\Users\npestre\Documents\GitHub\exo-de-c\GT3 POO J3 Animalerie\GT3 POO J3 Animalerie\bin\Debug\net8.0\GT3 POO J3 Animalerie.runtimeconfig.json
+C:\Users\npestre\Documents\GitHub\exo-de-c\GT3 POO J3 Animalerie\GT3 POO J3 Animalerie\bin\Debug\net8.0\GT3 POO J3 Animalerie.dll
+C:\Users\npestre\Documents\GitHub\exo-de-c\GT3 POO J3 Animalerie\GT3 POO J3 Animalerie\bin\Debug\net8.0\GT3 POO J3 Animalerie.pdb
+C:\Users\npestre\Documents\GitHub\exo-de-c\GT3 POO J3 Animalerie\GT3 POO J3 Animalerie\obj\Debug\net8.0\GT3 POO J3 Animalerie.dll
+C:\Users\npestre\Documents\GitHub\exo-de-c\GT3 POO J3 Animalerie\GT3 POO J3 Animalerie\obj\Debug\net8.0\refint\GT3 POO J3 Animalerie.dll
+C:\Users\npestre\Documents\GitHub\exo-de-c\GT3 POO J3 Animalerie\GT3 POO J3 Animalerie\obj\Debug\net8.0\GT3 POO J3 Animalerie.pdb
+C:\Users\npestre\Documents\GitHub\exo-de-c\GT3 POO J3 Animalerie\GT3 POO J3 Animalerie\obj\Debug\net8.0\GT3 POO J3 Animalerie.genruntimeconfig.cache
+C:\Users\npestre\Documents\GitHub\exo-de-c\GT3 POO J3 Animalerie\GT3 POO J3 Animalerie\obj\Debug\net8.0\ref\GT3 POO J3 Animalerie.dll

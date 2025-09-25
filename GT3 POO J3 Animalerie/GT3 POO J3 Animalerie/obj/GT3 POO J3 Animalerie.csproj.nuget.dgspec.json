@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kevinroussel/Desktop/_GC/GT3 POO J3 Animalerie/GT3 POO J3 Animalerie/GT3 POO J3 Animalerie.csproj": {}
+    "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj": {}
   },
   "projects": {
-    "/Users/kevinroussel/Desktop/_GC/GT3 POO J3 Animalerie/GT3 POO J3 Animalerie/GT3 POO J3 Animalerie.csproj": {
+    "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kevinroussel/Desktop/_GC/GT3 POO J3 Animalerie/GT3 POO J3 Animalerie/GT3 POO J3 Animalerie.csproj",
+        "projectUniqueName": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj",
         "projectName": "GT3 POO J3 Animalerie",
-        "projectPath": "/Users/kevinroussel/Desktop/_GC/GT3 POO J3 Animalerie/GT3 POO J3 Animalerie/GT3 POO J3 Animalerie.csproj",
-        "packagesPath": "/Users/kevinroussel/.nuget/packages/",
-        "outputPath": "/Users/kevinroussel/Desktop/_GC/GT3 POO J3 Animalerie/GT3 POO J3 Animalerie/obj/",
+        "projectPath": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj",
+        "packagesPath": "C:\\Users\\npestre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/kevinroussel/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\npestre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -58,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/kevinroussel/.dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GT3 POO J3 Animalerie/1.0.0": {
+        "runtime": {
+          "GT3 POO J3 Animalerie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GT3 POO J3 Animalerie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -8,6 +8,12 @@ namespace TU_Challenge.Heritage
 {
     public class Poisson : Animal
     {
+        public Poisson(string name) : base(name)
+        {
+            Shot = "Nemo le poisson";
+            IsAlive = true;
+            Paws = 0;
 
+        }
     }
 }

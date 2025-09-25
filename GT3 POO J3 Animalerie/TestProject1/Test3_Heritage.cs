@@ -11,7 +11,7 @@ namespace TU_Challenge.Tests
     /// Exercice 3 : on attaque l'héritage avec virtual/override, évènements et protected
     /// Pour rendre les tests visible, tu dois passer le "#if false" à "#if true" ligne 14
     /// </summary>
-#if false
+
     public class Test3_Heritage
     {
         [Test]
@@ -59,7 +59,7 @@ namespace TU_Challenge.Tests
         {
             Chat c = new Chat("Nougat");
 
-            Assert.That(c.Pattes, Is.EqualTo(4));
+            Assert.That(c.Paws, Is.EqualTo(4));
 
         }
 
@@ -71,12 +71,13 @@ namespace TU_Challenge.Tests
 
             Assert.IsTrue(c is Chat);
             Assert.IsTrue(c is Animal);
-            Assert.That(c.Pattes, Is.EqualTo(3));
+            Assert.That(c.Paws, Is.EqualTo(3));
 
             Assert.IsTrue(c2 is Chat);
             Assert.IsTrue(c2 is Animal);
-            Assert.That(c2.Pattes, Is.EqualTo(4));
+            Assert.That(c2.Paws, Is.EqualTo(4));
         }
+
 
         [Test]
         public void CreerAnimalerie()
@@ -213,7 +214,7 @@ namespace TU_Challenge.Tests
         {
             Poisson p = new Poisson("Nemo");
 
-            Assert.That(p.Pattes, Is.EqualTo(0));
+            Assert.That(p.Paws, Is.EqualTo(0));
         }
 
         [Test]
@@ -223,6 +224,6 @@ namespace TU_Challenge.Tests
 
             Assert.That(p.Name, Is.EqualTo("Nemo le poisson"));
         }
+
     }
-#endif
 }

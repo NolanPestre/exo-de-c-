@@ -10,5 +10,18 @@ namespace TU_Challenge.Heritage
     {
 
 
+        public Chat(string name) : base(name)
+        {
+            Shot = "Miaou (j'ai faim)";
+            IsAlive = true;
+            Paws = 4;
+
+        }
+
+        public override string Crier()
+        {
+            return this.Shot;
+        }
+
     }
 }

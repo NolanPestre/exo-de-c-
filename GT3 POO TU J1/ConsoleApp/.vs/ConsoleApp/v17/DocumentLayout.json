@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO TU J1\\ConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1006982-0AD9-4DCA-889C-14C1D6F4110C}|TestProject1\\TestProject1.csproj|c:\\users\\npestre\\documents\\github\\exo-de-c\\gt3 poo tu j1\\consoleapp\\testproject1\\test1_math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1006982-0AD9-4DCA-889C-14C1D6F4110C}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test1_math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{348324FF-95A0-4491-B7FE-13B3D0AB26D2}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\npestre\\documents\\github\\exo-de-c\\gt3 poo tu j1\\consoleapp\\consoleapp\\mymathimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{348324FF-95A0-4491-B7FE-13B3D0AB26D2}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\mymathimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1006982-0AD9-4DCA-889C-14C1D6F4110C}|TestProject1\\TestProject1.csproj|c:\\users\\npestre\\documents\\github\\exo-de-c\\gt3 poo tu j1\\consoleapp\\testproject1\\test1_math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1006982-0AD9-4DCA-889C-14C1D6F4110C}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test1_math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Test1_Math.cs",
               "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO TU J1\\ConsoleApp\\TestProject1\\Test1_Math.cs",
               "RelativeDocumentMoniker": "TestProject1\\Test1_Math.cs",
@@ -35,15 +35,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MyMathImplementation.cs",
               "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO TU J1\\ConsoleApp\\ConsoleApp\\MyMathImplementation.cs",
               "RelativeDocumentMoniker": "ConsoleApp\\MyMathImplementation.cs",
               "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO TU J1\\ConsoleApp\\ConsoleApp\\MyMathImplementation.cs",
               "RelativeToolTip": "ConsoleApp\\MyMathImplementation.cs",
-              "ViewState": "AgIAAKQAAAAAAAAAAAAmwLUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAcwLUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T14:03:58.712Z"
+              "WhenOpened": "2025-09-22T14:03:58.712Z",
+              "EditorCaption": ""
             }
           ]
         }
