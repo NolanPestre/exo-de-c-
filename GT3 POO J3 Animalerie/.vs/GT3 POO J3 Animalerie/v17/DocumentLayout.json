@@ -7,32 +7,32 @@
       "RelativeMoniker": "D:0:0:{214F25D1-DC1C-4C09-8985-F1BEFFD747F9}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\test3_heritage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|c:\\users\\npestre\\documents\\github\\exo-de-c\\gt3 poo j3 animalerie\\gt3 poo j3 animalerie\\heritage\\poisson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|solutionrelative:gt3 poo j3 animalerie\\heritage\\poisson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|c:\\users\\npestre\\documents\\github\\exo-de-c\\gt3 poo j3 animalerie\\gt3 poo j3 animalerie\\heritage\\chatquiboite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|solutionrelative:gt3 poo j3 animalerie\\heritage\\chatquiboite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|c:\\users\\npestre\\documents\\github\\exo-de-c\\gt3 poo j3 animalerie\\gt3 poo j3 animalerie\\heritage\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|solutionrelative:gt3 poo j3 animalerie\\heritage\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|c:\\users\\npestre\\documents\\github\\exo-de-c\\gt3 poo j3 animalerie\\gt3 poo j3 animalerie\\heritage\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|solutionrelative:gt3 poo j3 animalerie\\heritage\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|c:\\users\\npestre\\documents\\github\\exo-de-c\\gt3 poo j3 animalerie\\gt3 poo j3 animalerie\\heritage\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|solutionrelative:gt3 poo j3 animalerie\\heritage\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|c:\\users\\npestre\\documents\\github\\exo-de-c\\gt3 poo j3 animalerie\\gt3 poo j3 animalerie\\heritage\\animalerie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|solutionrelative:gt3 poo j3 animalerie\\heritage\\animalerie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|c:\\users\\npestre\\documents\\github\\exo-de-c\\gt3 poo j3 animalerie\\gt3 poo j3 animalerie\\heritage\\chien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|solutionrelative:gt3 poo j3 animalerie\\heritage\\chien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|c:\\users\\npestre\\documents\\github\\exo-de-c\\gt3 poo j3 animalerie\\gt3 poo j3 animalerie\\heritage\\poisson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|solutionrelative:gt3 poo j3 animalerie\\heritage\\poisson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|c:\\users\\npestre\\documents\\github\\exo-de-c\\gt3 poo j3 animalerie\\gt3 poo j3 animalerie\\heritage\\humain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|solutionrelative:gt3 poo j3 animalerie\\heritage\\humain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|c:\\users\\npestre\\documents\\github\\exo-de-c\\gt3 poo j3 animalerie\\gt3 poo j3 animalerie\\heritage\\chatquiboite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|solutionrelative:gt3 poo j3 animalerie\\heritage\\chatquiboite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|c:\\users\\npestre\\documents\\github\\exo-de-c\\gt3 poo j3 animalerie\\gt3 poo j3 animalerie\\heritage\\chien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F099EFCA-2CFC-4EFC-8C98-C5F509E5CF54}|GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie.csproj|solutionrelative:gt3 poo j3 animalerie\\heritage\\chien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,14 +52,14 @@
               "RelativeDocumentMoniker": "TestProject1\\Test3_Heritage.cs",
               "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO J3 Animalerie\\TestProject1\\Test3_Heritage.cs",
               "RelativeToolTip": "TestProject1\\Test3_Heritage.cs",
-              "ViewState": "AgIAAJ0AAAAAAAAAAAAiwLAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAwNwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T10:45:53.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Chat.cs",
               "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie\\Heritage\\Chat.cs",
               "RelativeDocumentMoniker": "GT3 POO J3 Animalerie\\Heritage\\Chat.cs",
@@ -72,46 +72,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie\\Heritage\\Animal.cs",
               "RelativeDocumentMoniker": "GT3 POO J3 Animalerie\\Heritage\\Animal.cs",
               "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie\\Heritage\\Animal.cs",
               "RelativeToolTip": "GT3 POO J3 Animalerie\\Heritage\\Animal.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCIAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T10:45:12.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Animalerie.cs",
               "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie\\Heritage\\Animalerie.cs",
               "RelativeDocumentMoniker": "GT3 POO J3 Animalerie\\Heritage\\Animalerie.cs",
               "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie\\Heritage\\Animalerie.cs",
               "RelativeToolTip": "GT3 POO J3 Animalerie\\Heritage\\Animalerie.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA3wBYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T10:45:13.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Poisson.cs",
               "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie\\Heritage\\Poisson.cs",
               "RelativeDocumentMoniker": "GT3 POO J3 Animalerie\\Heritage\\Poisson.cs",
               "ToolTip": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie\\Heritage\\Poisson.cs",
               "RelativeToolTip": "GT3 POO J3 Animalerie\\Heritage\\Poisson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T10:45:17.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Humain.cs",
               "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie\\Heritage\\Humain.cs",
               "RelativeDocumentMoniker": "GT3 POO J3 Animalerie\\Heritage\\Humain.cs",
@@ -124,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Chien.cs",
               "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie\\Heritage\\Chien.cs",
               "RelativeDocumentMoniker": "GT3 POO J3 Animalerie\\Heritage\\Chien.cs",
@@ -132,12 +132,11 @@
               "RelativeToolTip": "GT3 POO J3 Animalerie\\Heritage\\Chien.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T10:45:15.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T10:45:15.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ChatQuiBoite.cs",
               "DocumentMoniker": "C:\\Users\\npestre\\Documents\\GitHub\\exo-de-c\\GT3 POO J3 Animalerie\\GT3 POO J3 Animalerie\\Heritage\\ChatQuiBoite.cs",
               "RelativeDocumentMoniker": "GT3 POO J3 Animalerie\\Heritage\\ChatQuiBoite.cs",
@@ -145,8 +144,7 @@
               "RelativeToolTip": "GT3 POO J3 Animalerie\\Heritage\\ChatQuiBoite.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T10:45:15.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T10:45:15.139Z"
             }
           ]
         }

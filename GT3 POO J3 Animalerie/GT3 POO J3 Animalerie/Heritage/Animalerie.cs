@@ -21,7 +21,33 @@ namespace TU_Challenge.Heritage
             animals.Add(a);
 
             OnAddAnimal?.Invoke(a);
-            
+
+            if (a is Chat && a is not ChatQuiBoite)
+            {
+                for (int i = 0; i < animals.Count; i++)
+                {
+                    if (animals[i] is Poisson)
+                    {
+                        animals[i].IsAlive = false;
+                        a.Shot = "Miaou (Le poisson etait bon)";
+                    }
+                }
+            }
+            if (a is Poisson)
+            {
+                for (int i = 0; i < animals.Count; i++)
+                {
+                    if (animals[i] is Chat)
+                    {
+                        if (animals[i] is not ChatQuiBoite)
+                        {
+                            a.IsAlive = false;
+                            animals[i].Shot = "Miaou (Le poisson etait bon)";
+                        }
+                    }
+                }
+            }
+
         }
 
         public bool Contains(Animal c) 

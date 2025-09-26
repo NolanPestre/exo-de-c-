@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GT3 POO J3 Animalerie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dace74be2f363ea21468758abf878976a744a02c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af937a04d1ae9daa03a6b3ef6feadc545abf9aa8")]
 [assembly: System.Reflection.AssemblyProductAttribute("GT3 POO J3 Animalerie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GT3 POO J3 Animalerie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

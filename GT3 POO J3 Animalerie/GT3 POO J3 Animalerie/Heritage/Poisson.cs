@@ -8,9 +8,11 @@ namespace TU_Challenge.Heritage
 {
     public class Poisson : Animal
     {
+
+        string suffixe = "le poisson";
         public Poisson(string name) : base(name)
         {
-            Shot = "Nemo le poisson";
+            Name = name + " " + suffixe;
             IsAlive = true;
             Paws = 0;
 

@@ -28,6 +28,7 @@ namespace TU_Challenge.Heritage
         public string Name
         {
             get { return name; }
+            set { name = value; }
         }
 
         public string Shot
